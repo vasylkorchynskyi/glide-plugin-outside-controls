@@ -12,7 +12,7 @@ new Glide(sliderRoot, {
           disableClass: "is-disabled"
         }
       }).mount({
-        // Add mount
+        // Add to mount
         OutsideControls
       });
     });
